@@ -1,0 +1,25 @@
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : ## Unity ##
+                    
+                    *.cs diff=csharp text
+                    *.cginc text
+                    *.shader text
+                    
+                    *.mat merge=unityyamlmerge eol=lf
+                    *.anim merge=unityyamlmerge eol=lf
+                    *.unity merge=unityyamlmerge eol=lf
+                    *.prefab merge=unityyamlmerge eo…
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Cache-Control: max-age=300
+                    Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+                    ETag: W/"52f4ac5f5a97f9c0dc12a5c3521d3d13a354499fa…
+Headers           : {[Connection, System.String[]], [Cache-Control, System.String[]], [Content-Security-Policy, System.String[]], [ETag, System.String[]]…}
+Images            : {}
+InputFields       : {}
+Links             : {}
+RawContentLength  : 1615
+RelationLink      : {}
+
